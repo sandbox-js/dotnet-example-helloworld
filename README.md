@@ -1,7 +1,7 @@
 dotnet-example-helloworld
 =======================
 
-# To Run
+# To Run  
 
 ```
 $ npm start
@@ -10,5 +10,5 @@ $ npm start
 or
 
 ```
-./bin start.bat
+$ .\bin\start.bat
 ```
