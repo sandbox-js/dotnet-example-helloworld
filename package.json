@@ -4,7 +4,7 @@
   "description": "Example .NET Helloworld",
   "main": "",
   "scripts": {
-    "start": "grunt"
+    "start": "./bin/start.bat"
   },
   "repository": {
     "type": "git",
